@@ -6,7 +6,7 @@ int main()
 {
 	char * str;
 
-	str = str_cpy("Hello World!\n");
+	str = str_cpy("gros caca qui pue et qui sent pas bon\n");
 
 	printf("Voici ma chaine copiée:\n%s", str);
 
